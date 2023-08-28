@@ -1,4 +1,4 @@
-# ddaodan-s-i18n
+# ddaodan-i18n
 ddaodan的汉化包
 ## 支持的版本
 |版本|支持状况|

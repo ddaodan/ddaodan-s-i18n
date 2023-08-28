@@ -27,8 +27,8 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: 'zip'
-          filename: 'ddaodan-i18n.zip'
+          filename: 'ddaodan-i18n-1.20.1.zip'
           exclusions: '*.git* /*node_modules/* .editorconfig'
       - uses: actions/upload-artifact@v3
         with:
-          path: ./ddaodan-i18n.zip
+          path: ./ddaodan-i18n-1.20.1.zip
