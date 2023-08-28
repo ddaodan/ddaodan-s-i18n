@@ -29,3 +29,6 @@ jobs:
           type: 'zip'
           filename: 'ddaodan-i18n.zip'
           exclusions: '*.git* /*node_modules/* .editorconfig'
+      - uses: actions/upload-artifact@v3
+        with:
+          path: ./ddaodan-i18n.zip
