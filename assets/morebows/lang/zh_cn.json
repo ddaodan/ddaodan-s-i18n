@@ -20,14 +20,14 @@
     "morebows.confCatGen.tooltip": "各种杂项设置。",
     "morebows.confGenFrostCold": "霜冻箭应该是冷的",
     "morebows.confGenFrostCold.tooltip": "如果启用此功能，冰霜箭将对火焰造成三倍伤害，并扑灭着火的实体。\n还可以防止冰霜箭着火。",
-    "morebows.confGenOldRendering": "旧版霜冻箭渲染",
+    "morebows.confGenOldRendering": "Old frost arrow rendering",
     "morebows.confGenOldRendering.tooltip": "如果启用此功能，霜箭头将呈现为箭头。",
-    "morebows.confGenOldSlowdown": "旧版霜冻箭生物减速效果",
+    "morebows.confGenOldSlowdown": "Old frost arrow mob slowdown",
     "morebows.confGenOldSlowdown.tooltip": "如果启用此功能，冰霜箭将通过假装将实体放置在网中一刻来减慢实体的速度。\n如果禁用此功能，冰霜箭将在击中时应用减速药水效果。",
-    "morebows.confMultiShotAmmo": "双发弓弹药的使用",
-    "morebows.confMultiShotAmmo.AlwaysCustomArrows": "使用1个，自定义射击",
-    "morebows.confMultiShotAmmo.AlwaysStandardArrows": "使用1个，基础射击",
-    "morebows.confMultiShotAmmo.UseAmountShot": "使用多个",
+    "morebows.confMultiShotAmmo": "Multi-shot bow ammo use",
+    "morebows.confMultiShotAmmo.AlwaysCustomArrows": "Use 1, shoot custom",
+    "morebows.confMultiShotAmmo.AlwaysStandardArrows": "Use 1, shoot basic",
+    "morebows.confMultiShotAmmo.UseAmountShot": "Use multiple",
     "morebows.confMultiShotAmmo.tooltip": "更改多发弓处理额外箭头的方式。可能的选项:\n使用 1 个箭头，射出多个自定义箭头\n使用 1 个箭头，射出多个标准箭头\n使用尽可能多的箭头，射出用过的箭头",
-    "morebows.confTitle": "更多弓配置设置"
+    "morebows.confTitle": "More Bows configuration settings"
 }
