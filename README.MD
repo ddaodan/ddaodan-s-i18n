@@ -10,8 +10,8 @@ ddaodan的汉化包
 |:-:|:-:|:-:|
 |bakery|20%|✅|
 |fabrichammers|100%|✅|
-|minerally|80%|✅|
 |morebows|80%|✅|
 |tbouncepad|100%|✅|
-|toms_storage|50%|❌|
 |tradingpost|100%|✅|
+## 参与贡献
+<a title="Crowdin" target="_blank" href="https://crwd.in/ddaodan-i18n"><img src="https://img.shields.io/badge/Crowdin-1?style=flat-square&logo=crowdin"></a>
