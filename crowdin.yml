@@ -1,0 +1,6 @@
+targets:
+  - name: ddaodan-i18n
+    sources:
+      - /assets/*/lang/zh_cn.json
+    file: '%original_file_name%.json'
+    format: android
