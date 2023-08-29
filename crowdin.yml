@@ -4,3 +4,6 @@ targets:
       - /assets/**/
     file: /%original_path%/%locale%.json
     format: android
+files:
+  - source: /assets/**/
+    translation: /%original_path%/%locale%.json
