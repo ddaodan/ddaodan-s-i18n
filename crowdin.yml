@@ -6,4 +6,4 @@ targets:
     format: android
 files:
   - source: /assets/**/lang/zh_cn.json
-    translation: /%original_path%/%locale%.json
+    translation: /%original_path%/%language%.json
