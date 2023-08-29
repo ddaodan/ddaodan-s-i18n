@@ -2,4 +2,4 @@ targets:
   - name: ddaodan-i18n
     sources:
       - /assets/**/lang/zh_cn.json
-    file: '/assets/**/lang/%original_file_name%.json'
+    file: '/%original_path%/%locale%.json'
