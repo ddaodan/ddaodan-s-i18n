@@ -28,7 +28,7 @@ jobs:
         with:
           type: 'zip'
           filename: 'ddaodan-i18n-1.20.1.zip'
-          exclusions: '*.git* /*node_modules/* .editorconfig'
+          exclusions: '*.git* /*node_modules/* .editorconfig crowdin.yml README.MD'
       - uses: actions/upload-artifact@v3
         with:
           path: ./ddaodan-i18n-1.20.1.zip
