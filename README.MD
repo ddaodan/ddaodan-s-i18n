@@ -8,10 +8,12 @@ ddaodan的汉化包
 ### 1.20.1
 |Mod名称|翻译进度|更新状态|
 |:-:|:-:|:-:|
-|bakery|20%|✅|
-|fabrichammers|100%|✅|
-|morebows|80%|✅|
-|tbouncepad|100%|✅|
-|tradingpost|100%|✅|
+|bakery|进行中|✅|
+|fabrichammers|已完成|✅|
+|morebows|进行中|✅|
+|tbouncepad|已完成|✅|
+|tradingpost|已完成|✅|
+|betterarcheology|进行中|✅|
+|snifferplus|进行中|✅|
 ## 参与贡献
 <a title="Crowdin" target="_blank" href="https://crwd.in/ddaodan-i18n"><img src="https://img.shields.io/badge/Crowdin-1?style=flat-square&logo=crowdin"></a>
