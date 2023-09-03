@@ -1,5 +1,5 @@
 {
-  "block.snifferplus.stone_pine_button": "石制松木按钮",
+  "block.snifferplus.stone_pine_button": "Stone Pine Button",
   "block.snifferplus.stone_pine_door": "Stone Pine Door",
   "block.snifferplus.stone_pine_fence": "Stone Pine Fence",
   "block.snifferplus.stone_pine_fence_gate": "Stone Pine Fence Gate",
@@ -16,15 +16,20 @@
   "block.snifferplus.stone_pine_wood": "Stone Pine Wood",
   "block.snifferplus.stripped_stone_pine_log": "Stripped Stone Pine Log",
   "block.snifferplus.stripped_stone_pine_wood": "Stripped Stone Pine Wood",
-  "block.snifferplus.ivy_body": "常春藤",
-  "block.snifferplus.ivy_head": "常春藤",
-  "block.snifferplus.fiddlefern": "蕨类植物",
-  "block.snifferplus.tall_fiddlefern": "高蕨类植物",
+
+  "block.snifferplus.ivy_body": "Ivy",
+  "block.snifferplus.ivy_head": "Ivy",
+  "block.snifferplus.fiddlefern": "Fiddlefern",
+  "block.snifferplus.tall_fiddlefern": "Tall Fiddlefern",
+
   "item.snifferplus.stone_pine_boat": "Stone Pine Boat",
   "item.snifferplus.stone_pine_chest_boat": "Stone Pine Chest Boat",
-  "item.snifferplus.ivy": "常春藤",
+  "item.snifferplus.ivy": "Ivy",
+
   "entity.snifferplus.stone_pine_boat": "Stone Pine Boat",
   "entity.snifferplus.stone_pine_chest_boat": "Stone Pine Chest Boat",
-  "biome.snifferplus.timeless_grotto": "永恒洞穴",
+
+  "biome.snifferplus.timeless_grotto": "Timeless Grotto",
+
   "itemGroup.sniffer_plus_tab": "Sniffer+"
 }
