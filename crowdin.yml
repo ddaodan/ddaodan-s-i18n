@@ -5,5 +5,5 @@ targets:
     file: /%original_path%/%locale%.json
     format: android
 files:
-  - source: /assets/**/lang/zh_cn.json
+  - source: /assets/**/lang/en_us.json
     translation: /%original_path%/%language%.json
