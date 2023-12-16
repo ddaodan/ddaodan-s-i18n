@@ -21,5 +21,6 @@ ddaodan的汉化包
 |:-:|:-:|:-:|
 |mineandslash|进行中|✅|
 |coinsje|已完成|✅|
+|improvableskills|已完成|✅|
 ## 参与贡献
 <a title="Crowdin" target="_blank" href="https://crwd.in/ddaodan-i18n"><img src="https://img.shields.io/badge/Crowdin-1?style=flat-square&logo=crowdin"></a>
