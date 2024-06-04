@@ -1550,7 +1550,7 @@
     "spell.desc.entangling_seed": "扔出一个种子，它会爆炸并石化敌人。",
     "spell.desc.execute": "劈砍你前方的敌人,造成[calc:execute]§6☀物理§7伤害。",
     "spell.desc.explosive_arrow": "射出一根箭矢，在其周围造成[calc:explosive_arrow]§6☀物理§7伤害。",
-    "spell.desc.fire_nova": "在你周围爆发冰霜,对附近敌人造成[calc:fire_nova] §b☀ 冰霜§7 伤害。",
+    "spell.desc.fire_nova": "用火焰吞噬该区域，对附近的敌人造成[calc:fire_nova]§c☀火焰§7 伤害。",
     "spell.desc.fire_trap": "生成一个陷阱,它会留在地上,当敌人靠近时触发,在其周围范围内造成[calc:ranger_trap]§c☀火焰§7伤害。",
     "spell.desc.fireball": "生成一个火球,造成[calc:fireball]§c☀火焰§7伤害。",
     "spell.desc.flame_strike": "对你前方的敌人造成[calc:flame_strike]§c☀火焰§7伤害。",
